@@ -3,7 +3,6 @@
     <h1>𝙷𝚒 👋, 𝙸'𝚖 𝙻𝚞𝚌𝚊</h1>
     <h3>𝙰 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚏𝚛𝚘𝚖 𝙿𝚘𝚕𝚢𝚝𝚎𝚌𝚑𝚗𝚒𝚌 𝚘𝚏 𝚃𝚞𝚛𝚒𝚗 🇮🇹</h3>
     <img src="https://github-readme-stats.vercel.app/api?username=lucabubi&show_icons=true&locale=en" alt="lucabubi" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucabubi&theme=default" alt="lucabubi" />
   </div>
   <div align="left">
     <h3>Connect with me:</h3>
